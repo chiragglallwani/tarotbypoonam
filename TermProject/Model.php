@@ -1,6 +1,6 @@
 <?php
 
-    $conn = mysqli_connect('localhost','clalwaniw21','clalwaniw21136','C354_clalwaniw21');
+    $conn = mysqli_connect('localhost','','','');
 
 
 /*
